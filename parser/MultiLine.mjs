@@ -6,8 +6,8 @@ export default {
     let text = replaceToken(obj.text, tokens);
 
 //    text.replaceAll('<b>', '<tspan font-weight="bold">').replaceAll('</b>', '</tspan>');
-    text = text.replaceAll('<b>', '').replaceAll('</b>', '');
-    text = text.replaceAll('<u>', '').replaceAll('</u>', '');
+//    text = text.replaceAll('<b>', '').replaceAll('</b>', '');
+//    text = text.replaceAll('<u>', '').replaceAll('</u>', '');
 
     const {
       lineHeight,

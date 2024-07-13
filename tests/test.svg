@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="500" viewBox="0 0 816 500" style="background:#FFF;">
+<g font-family="Noto Sans" font-size="10" transform="translate(42 0)">
+<g transform="translate(0 0)">
+<g transform="translate(16 16)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="12" y="17" >John Doe</text><rect x="5" y="5" width="689" height="2" fill="#00000"/>
+<rect x="5" y="27" width="689" height="2"/>
+<rect x="5" y="5" width="2" height="24"/>
+<rect x="692" y="5" width="2" height="24"/>
+</g>
+<g transform="translate(16 50)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="2" y="8" >Lorem Lipsum</text>
+</g>
+<g transform="translate(16 66)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="4" y="27" >Lorem Lipsum</text><rect x="2" y="2" width="695" height="10" fill="#00000"/>
+<rect x="2" y="42" width="695" height="5"/>
+<rect x="2" y="2" width="2" height="45"/>
+<rect x="695" y="2" width="2" height="45"/>
+</g>
+<g transform="translate(16 115)">
+<g transform="translate(17 17)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="12" y="17" >Lorem Lipsum</text><rect x="5" y="5" width="655" height="2" fill="#00000"/>
+<rect x="5" y="27" width="655" height="2"/>
+<rect x="5" y="5" width="2" height="24"/>
+<rect x="658" y="5" width="2" height="24"/>
+</g>
+<g transform="translate(17 51)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="2" y="8" >Lorem Lipsum</text>
+</g>
+<g transform="translate(17 67)">
+<text alignment-baseline="central" font-size="10" font-weight="400" x="9" y="27" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam luctus sapien et lectus varius ultrices. Class aptent taciti sociosqu ad litora</text>
+<text alignment-baseline="central" font-size="10" font-weight="400" x="9" y="57" >torquent per conubia nostra, per inceptos himenaeos. Morbi massa est, interdum non mattis eget, dictum quis arcu. Aenean quis enim</text>
+<text alignment-baseline="central" font-size="10" font-weight="400" x="9" y="87" >ut sem tincidunt aliquet lacinia ut massa.</text><rect x="2" y="2" width="661" height="10" fill="#00000"/>
+<rect x="2" y="102" width="661" height="5"/>
+<rect x="2" y="2" width="2" height="105"/>
+<rect x="661" y="2" width="2" height="105"/>
+<g class="debug"><path d="M 0,0 H 665 V 109 H 0 Z M 2,2 V 107 H 663 V 2 Z" fill="#FF770033" stroke="#F00" fill-rule="evenodd" stroke-width="0.5"/><rect x="2" y="2" width="661" height="105" fill="#00000000" stroke="#0F0" stroke-width="0.1"/><rect x="9" y="12" width="642" height="97" fill="#00000000" stroke="#00F" stroke-width="0.1"/></g>
+</g><rect x="10" y="10" width="679" height="2" fill="#00000"/>
+<rect x="10" y="181" width="679" height="2"/>
+<rect x="10" y="10" width="2" height="173"/>
+<rect x="687" y="10" width="2" height="173"/>
+<g class="debug"><path d="M 0,0 H 699 V 193 H 0 Z M 10,10 V 183 H 689 V 10 Z" fill="#FF770033" stroke="#F00" fill-rule="evenodd" stroke-width="0.5"/><rect x="10" y="10" width="679" height="173" fill="#00000000" stroke="#0F0" stroke-width="0.1"/><rect x="17" y="17" width="665" height="176" fill="#00000000" stroke="#00F" stroke-width="0.1"/></g>
+</g>
+<g transform="translate(16 308)">
+<g transform="translate(2 2)">
+<g transform="translate(0 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >Document ID</text>
+</g>
+<g transform="translate(139 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >agr11111-222222222-33333333-444444-sg5555</text>
+</g><rect x="0" y="17" width="695" height="1"/>
+</g>
+<g transform="translate(2 20)">
+<g transform="translate(0 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >Customer Name</text>
+</g>
+<g transform="translate(139 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >John Doe</text>
+</g><rect x="0" y="17" width="695" height="1"/>
+</g>
+<g transform="translate(2 38)">
+<g transform="translate(0 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >Agreement Created</text>
+</g>
+<g transform="translate(139 0)">
+<text alignment-baseline="central" font-weight="400" font-size="10" x="5" y="8.5" >dddd, MMMM D, YYYY h:mm A</text>
+</g>
+</g><rect x="0" y="0" width="699" height="2" fill="#00000"/>
+<rect x="0" y="55" width="699" height="2"/>
+<rect x="0" y="0" width="2" height="57"/>
+<rect x="697" y="0" width="2" height="57"/>
+</g><rect x="10" y="10" width="711" height="1" fill="#00000"/>
+<rect x="10" y="380" width="711" height="1"/>
+<rect x="10" y="10" width="1" height="371"/>
+<rect x="720" y="10" width="1" height="371"/>
+<g class="debug"><path d="M 0,0 H 731 V 391 H 0 Z M 10,10 V 381 H 721 V 10 Z" fill="#FF770033" stroke="#F00" fill-rule="evenodd" stroke-width="0.5"/><rect x="10" y="10" width="711" height="371" fill="#00000000" stroke="#0F0" stroke-width="0.1"/><rect x="16" y="16" width="699" height="375" fill="#00000000" stroke="#00F" stroke-width="0.1"/></g>
+</g>
+</g>
+</svg>

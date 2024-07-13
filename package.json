@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/xpe-app/svg-template/issues"
   },
-  "homepage": "https://github.com/xpe-app/svg-template#readme"
+  "homepage": "https://github.com/xpe-app/svg-template#readme",
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
 }

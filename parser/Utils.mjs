@@ -2,6 +2,7 @@ export default class Utils{
   static wordWrap(font, text, maxWidth, fontSize, maxLines=Infinity) {
     if(text === "")return [];
 
+    //todo: handle <tspan> tags, eg: across line, add </tspan> at the end of the line, append tspan to next line
     if(text.includes('<tspan')){
       return [text];
     }
