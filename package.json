@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "name": "svg-template",
+  "version": "0.0.1",
+  "description": "SVG template engine, support css box model and multiline text.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpe-app/svg-template.git"
+  },
+  "keywords": [
+    "svg",
+    "css",
+    "box",
+    "margin",
+    "border",
+    "padding",
+    "textarea",
+    "multiline"
+  ],
+  "author": "Colin Leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpe-app/svg-template/issues"
+  },
+  "homepage": "https://github.com/xpe-app/svg-template#readme"
+}
